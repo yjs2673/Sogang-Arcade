@@ -24,7 +24,4 @@
 • 맵 곳곳에 있는 코인(점수)을 얻어 단계를 클리어해 점수 수치에 따른 랭크 차등 달성
 <br />
 <br />
-시연 영상 : https://youtu.be/bucLMenwwkA
-<br />
-<br />
-제작 과정 : [[https://www.notion.so/1f4bb61a510380759171f09a119ed04c?source=copy_link](https://heavy-termite-840.notion.site/1f4bb61a510380759171f09a119ed04c)](https://yjs2673.notion.site/1f4bb61a510380759171f09a119ed04c)
+[시연 영상](https://youtu.be/bucLMenwwkA)
